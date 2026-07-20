@@ -22,6 +22,7 @@ Analisis data admisi 11.977 pasien rumah sakit menggunakan menggunakan Excel + P
 - Referral type analysis
 - Proyeksi volume Apr-Jun 2026
 - 5 rekomendasi strategis untuk manajemen
-
+- 
 ## Preview Dashboard
+
 📄 [Lihat Full Presentation](./Patient Admission Performance Report — Analytical Dashboard for Healthcare Decision Making.pdf)
