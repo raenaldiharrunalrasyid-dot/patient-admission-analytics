@@ -23,8 +23,5 @@ Analisis data admisi 11.977 pasien rumah sakit menggunakan menggunakan Excel + P
 - Proyeksi volume Apr-Jun 2026
 - 5 rekomendasi strategis untuk manajemen
 
-Klik README.md → edit (ikon pensil)
-→ Ganti baris Preview Dashboard jadi:
-
 ## Preview Dashboard
-📄 [Lihat Full Presentation](./Patient-Admission-Performance-Report.pdf)
+📄 [Lihat Full Presentation](./Patient Admission Performance Report — Analytical Dashboard for Healthcare Decision Making.pdf)
