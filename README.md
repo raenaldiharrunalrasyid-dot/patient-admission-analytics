@@ -25,4 +25,4 @@ Analisis data admisi 11.977 pasien rumah sakit menggunakan menggunakan Excel + P
 - 
 ## Preview Dashboard
 
-📄 [Lihat Full Presentation](./Patient Admission Performance Report.pdf)
+📄 [Lihat Full Presentation](./Report.pdf)
